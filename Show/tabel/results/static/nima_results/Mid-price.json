@@ -1,0 +1,4034 @@
+[
+  {
+    "folder_id": "1003",
+    "price": 75.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1003",
+    "pred_score": 0.4709418140765693,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1003/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "1020",
+    "price": 75.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1020",
+    "pred_score": 0.46244656761539066,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1020/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "1186",
+    "price": 75.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1186",
+    "pred_score": 0.4626794036270844,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1186/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "1187",
+    "price": 75.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1187",
+    "pred_score": 0.4759426678194561,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1187/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "1193",
+    "price": 75.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1193",
+    "pred_score": 0.4801658798339001,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1193/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "788",
+    "price": 76.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/788",
+    "pred_score": 0.48430996652071673,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/788/figure/1.jpg",
+    "group_id": 0
+  },
+  {
+    "folder_id": "831",
+    "price": 76.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/831",
+    "pred_score": 0.48706145756619257,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/831/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "868",
+    "price": 76.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/868",
+    "pred_score": 0.4665648165391758,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/868/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "944",
+    "price": 76.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/944",
+    "pred_score": 0.49809405414594543,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/944/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "1127",
+    "price": 76.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1127",
+    "pred_score": 0.49480880301497465,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1127/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "664",
+    "price": 77.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/664",
+    "pred_score": 0.5137980894909965,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/664/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "774",
+    "price": 77.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/774",
+    "pred_score": 0.45512294514466906,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/774/figure/1.jpg",
+    "group_id": 1
+  },
+  {
+    "folder_id": "863",
+    "price": 77.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/863",
+    "pred_score": 0.4644830427391248,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/863/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "769",
+    "price": 78.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/769",
+    "pred_score": 0.45385731846302707,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/769/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "877",
+    "price": 78.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/877",
+    "pred_score": 0.46060086424565977,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/877/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "920",
+    "price": 78.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/920",
+    "pred_score": 0.48949428280401563,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/920/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "1178",
+    "price": 78.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1178",
+    "pred_score": 0.4944968216845559,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1178/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "793",
+    "price": 79.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/793",
+    "pred_score": 0.4127783306563894,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/793/figure/1.jpg",
+    "group_id": 2
+  },
+  {
+    "folder_id": "942",
+    "price": 79.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/942",
+    "pred_score": 0.4668886914021439,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/942/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "1097",
+    "price": 79.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1097",
+    "pred_score": 0.5423577294018792,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1097/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "1174",
+    "price": 79.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1174",
+    "pred_score": 0.4529230850878068,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1174/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "665",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/665",
+    "pred_score": 0.4541020766126975,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/665/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "672",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/672",
+    "pred_score": 0.4954471311810064,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/672/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "680",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/680",
+    "pred_score": 0.5408224014520076,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/680/figure/1.jpg",
+    "group_id": 3
+  },
+  {
+    "folder_id": "682",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/682",
+    "pred_score": 0.45848562713298535,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/682/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "686",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/686",
+    "pred_score": 0.533739551798337,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/686/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "690",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/690",
+    "pred_score": 0.4935922257653955,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/690/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "692",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/692",
+    "pred_score": 0.4543101064239939,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/692/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "698",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/698",
+    "pred_score": 0.4902857800609329,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/698/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "736",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/736",
+    "pred_score": 0.4990064301334011,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/736/figure/1.jpg",
+    "group_id": 4
+  },
+  {
+    "folder_id": "744",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/744",
+    "pred_score": 0.4818602877203375,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/744/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "756",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/756",
+    "pred_score": 0.43440555186114377,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/756/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "761",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/761",
+    "pred_score": 0.4631624819044696,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/761/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "765",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/765",
+    "pred_score": 0.4713134129382929,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/765/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "792",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/792",
+    "pred_score": 0.4983927434724238,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/792/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "812",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/812",
+    "pred_score": 0.4794011855135775,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/812/figure/1.jpg",
+    "group_id": 5
+  },
+  {
+    "folder_id": "836",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/836",
+    "pred_score": 0.48582798660694,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/836/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "856",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/856",
+    "pred_score": 0.48095861152331865,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/856/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "860",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/860",
+    "pred_score": 0.512758538857775,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/860/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "861",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/861",
+    "pred_score": 0.47562682069838047,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/861/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "864",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/864",
+    "pred_score": 0.4746038385847997,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/864/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "889",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/889",
+    "pred_score": 0.45044849233494866,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/889/figure/1.jpg",
+    "group_id": 6
+  },
+  {
+    "folder_id": "893",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/893",
+    "pred_score": 0.4923569662872372,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/893/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "894",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/894",
+    "pred_score": 0.5132602987545801,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/894/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "969",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/969",
+    "pred_score": 0.46494154858778025,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/969/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "977",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/977",
+    "pred_score": 0.5033915610789942,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/977/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "997",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/997",
+    "pred_score": 0.4775585479025419,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/997/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "998",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/998",
+    "pred_score": 0.42791752325784826,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/998/figure/1.jpg",
+    "group_id": 7
+  },
+  {
+    "folder_id": "999",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/999",
+    "pred_score": 0.507325177688876,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/999/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1004",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1004",
+    "pred_score": 0.46170155239977045,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1004/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1026",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1026",
+    "pred_score": 0.417529412850854,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1026/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1029",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1029",
+    "pred_score": 0.4553461214527488,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1029/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1042",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1042",
+    "pred_score": 0.4697927152996676,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1042/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1069",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1069",
+    "pred_score": 0.4892520276739055,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1069/figure/1.jpg",
+    "group_id": 8
+  },
+  {
+    "folder_id": "1088",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1088",
+    "pred_score": 0.47608075692389523,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1088/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "1093",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1093",
+    "pred_score": 0.4373402420638336,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1093/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "1111",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1111",
+    "pred_score": 0.4728578599687252,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1111/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "1128",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1128",
+    "pred_score": 0.49650886596322785,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1128/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "1132",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1132",
+    "pred_score": 0.5170045205288463,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1132/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "1149",
+    "price": 80.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1149",
+    "pred_score": 0.45540080685168505,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1149/figure/1.jpg",
+    "group_id": 9
+  },
+  {
+    "folder_id": "673",
+    "price": 81.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/673",
+    "pred_score": 0.44977340940386057,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/673/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "1115",
+    "price": 81.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1115",
+    "pred_score": 0.5189436163345817,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1115/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "1147",
+    "price": 81.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1147",
+    "pred_score": 0.44682515814201906,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1147/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "1168",
+    "price": 81.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1168",
+    "pred_score": 0.489069340362524,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1168/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "728",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/728",
+    "pred_score": 0.5162971112569923,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/728/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "800",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/800",
+    "pred_score": 0.47173376272742945,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/800/figure/1.jpg",
+    "group_id": 10
+  },
+  {
+    "folder_id": "841",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/841",
+    "pred_score": 0.5119392724526632,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/841/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "887",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/887",
+    "pred_score": 0.4970755609534131,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/887/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "974",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/974",
+    "pred_score": 0.5371202473761514,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/974/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "983",
+    "price": 82.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/983",
+    "pred_score": 0.4550076021761116,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/983/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "957",
+    "price": 83.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/957",
+    "pred_score": 0.39985405570930904,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/957/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "1183",
+    "price": 83.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1183",
+    "pred_score": 0.5034911443104243,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1183/figure/1.jpg",
+    "group_id": 11
+  },
+  {
+    "folder_id": "811",
+    "price": 84.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/811",
+    "pred_score": 0.5191845192522224,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/811/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "832",
+    "price": 84.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/832",
+    "pred_score": 0.5181946467774752,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/832/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "911",
+    "price": 84.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/911",
+    "pred_score": 0.4707959095895704,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/911/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "1030",
+    "price": 84.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1030",
+    "pred_score": 0.46711966277669287,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1030/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "1190",
+    "price": 84.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1190",
+    "pred_score": 0.4682621197037709,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1190/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "661",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/661",
+    "pred_score": 0.48093266579801114,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/661/figure/1.jpg",
+    "group_id": 12
+  },
+  {
+    "folder_id": "715",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/715",
+    "pred_score": 0.4442203590717529,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/715/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "717",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/717",
+    "pred_score": 0.4754314510015926,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/717/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "718",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/718",
+    "pred_score": 0.46018431519365144,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/718/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "778",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/778",
+    "pred_score": 0.4777778128045611,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/778/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "784",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/784",
+    "pred_score": 0.47956620712001397,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/784/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "802",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/802",
+    "pred_score": 0.48981507771471416,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/802/figure/1.jpg",
+    "group_id": 13
+  },
+  {
+    "folder_id": "826",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/826",
+    "pred_score": 0.44271398732800865,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/826/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "837",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/837",
+    "pred_score": 0.41993368243695134,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/837/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "851",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/851",
+    "pred_score": 0.4903180468439435,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/851/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "853",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/853",
+    "pred_score": 0.5298002649926477,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/853/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "866",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/866",
+    "pred_score": 0.4601683163911932,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/866/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "910",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/910",
+    "pred_score": 0.49323509198923904,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/910/figure/1.jpg",
+    "group_id": 14
+  },
+  {
+    "folder_id": "949",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/949",
+    "pred_score": 0.520916647872784,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/949/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "965",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/965",
+    "pred_score": 0.48274074612224166,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/965/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "982",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/982",
+    "pred_score": 0.47680530613352956,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/982/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "1005",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1005",
+    "pred_score": 0.45284325652755797,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1005/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "1027",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1027",
+    "pred_score": 0.45780526366757435,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1027/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "1045",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1045",
+    "pred_score": 0.5021525095427124,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1045/figure/1.jpg",
+    "group_id": 15
+  },
+  {
+    "folder_id": "1102",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1102",
+    "pred_score": 0.5040150050643004,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1102/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1112",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1112",
+    "pred_score": 0.4619746213947009,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1112/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1119",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1119",
+    "pred_score": 0.49246704888840515,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1119/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1122",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1122",
+    "pred_score": 0.4955903769959049,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1122/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1148",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1148",
+    "pred_score": 0.49474595362941426,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1148/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1171",
+    "price": 85.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1171",
+    "pred_score": 0.5067328030191776,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1171/figure/1.jpg",
+    "group_id": 16
+  },
+  {
+    "folder_id": "1015",
+    "price": 86.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1015",
+    "pred_score": 0.4974275818725194,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1015/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "1048",
+    "price": 86.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1048",
+    "pred_score": 0.47255874515071306,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1048/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "1076",
+    "price": 86.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1076",
+    "pred_score": 0.4866586775105033,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1076/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "1100",
+    "price": 86.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1100",
+    "pred_score": 0.48732466742189395,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1100/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "1180",
+    "price": 86.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1180",
+    "pred_score": 0.4675129442475736,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1180/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "898",
+    "price": 87.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/898",
+    "pred_score": 0.46837826740617555,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/898/figure/1.jpg",
+    "group_id": 17
+  },
+  {
+    "folder_id": "950",
+    "price": 87.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/950",
+    "pred_score": 0.44068010102233124,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/950/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "881",
+    "price": 88.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/881",
+    "pred_score": 0.5072066482680384,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/881/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "755",
+    "price": 89.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/755",
+    "pred_score": 0.4502796543076531,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/755/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "849",
+    "price": 89.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/849",
+    "pred_score": 0.4983993387108462,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/849/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "653",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/653",
+    "pred_score": 0.4916359780537378,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/653/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "705",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/705",
+    "pred_score": 0.42762627214607263,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/705/figure/1.jpg",
+    "group_id": 18
+  },
+  {
+    "folder_id": "724",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/724",
+    "pred_score": 0.5236627432621188,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/724/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "727",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/727",
+    "pred_score": 0.409746283523014,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/727/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "730",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/730",
+    "pred_score": 0.45779980936398107,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/730/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "739",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/739",
+    "pred_score": 0.4034384241224163,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/739/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "742",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/742",
+    "pred_score": 0.49394229061888634,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/742/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "773",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/773",
+    "pred_score": 0.4538610521897984,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/773/figure/1.jpg",
+    "group_id": 19
+  },
+  {
+    "folder_id": "789",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/789",
+    "pred_score": 0.42895224204079974,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/789/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "790",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/790",
+    "pred_score": 0.4819129711120493,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/790/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "801",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/801",
+    "pred_score": 0.501890882772083,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/801/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "816",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/816",
+    "pred_score": 0.4827421242722873,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/816/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "834",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/834",
+    "pred_score": 0.5436594505962502,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/834/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "835",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/835",
+    "pred_score": 0.477363639511168,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/835/figure/1.jpg",
+    "group_id": 20
+  },
+  {
+    "folder_id": "912",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/912",
+    "pred_score": 0.45974266549455933,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/912/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "984",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/984",
+    "pred_score": 0.48206749227311874,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/984/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "1010",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1010",
+    "pred_score": 0.4876733372608821,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1010/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "1022",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1022",
+    "pred_score": 0.41722912263746065,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1022/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "1033",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1033",
+    "pred_score": 0.48599016054585165,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1033/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "1039",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1039",
+    "pred_score": 0.4750530505775209,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1039/figure/1.jpg",
+    "group_id": 21
+  },
+  {
+    "folder_id": "1041",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1041",
+    "pred_score": 0.49375306483772063,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1041/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "1054",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1054",
+    "pred_score": 0.47596185501768357,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1054/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "1094",
+    "price": 90.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1094",
+    "pred_score": 0.5391564811741572,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1094/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "993",
+    "price": 91.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/993",
+    "pred_score": 0.49823685842824894,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/993/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "1064",
+    "price": 91.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1064",
+    "pred_score": 0.4553389094459514,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1064/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "1167",
+    "price": 91.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1167",
+    "pred_score": 0.4603317166911438,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1167/figure/1.jpg",
+    "group_id": 22
+  },
+  {
+    "folder_id": "782",
+    "price": 92.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/782",
+    "pred_score": 0.4863778135816877,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/782/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "1043",
+    "price": 94.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1043",
+    "pred_score": 0.47740352743615705,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1043/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "683",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/683",
+    "pred_score": 0.4776339741171493,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/683/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "699",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/699",
+    "pred_score": 0.43957549369143734,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/699/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "701",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/701",
+    "pred_score": 0.4749603466027313,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/701/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "710",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/710",
+    "pred_score": 0.5131628540661445,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/710/figure/1.jpg",
+    "group_id": 23
+  },
+  {
+    "folder_id": "729",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/729",
+    "pred_score": 0.4290987021393246,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/729/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "741",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/741",
+    "pred_score": 0.5075005720007337,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/741/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "820",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/820",
+    "pred_score": 0.4503367174572001,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/820/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "854",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/854",
+    "pred_score": 0.433148167315974,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/854/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "880",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/880",
+    "pred_score": 0.48295460025676423,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/880/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "895",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/895",
+    "pred_score": 0.43224799788246554,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/895/figure/1.jpg",
+    "group_id": 24
+  },
+  {
+    "folder_id": "925",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/925",
+    "pred_score": 0.4883435333419281,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/925/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "952",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/952",
+    "pred_score": 0.47384201031592155,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/952/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "953",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/953",
+    "pred_score": 0.43571735561514896,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/953/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "1023",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1023",
+    "pred_score": 0.37126548650364083,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1023/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "1059",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1059",
+    "pred_score": 0.47642367690180737,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1059/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "1060",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1060",
+    "pred_score": 0.4914959501475096,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1060/figure/1.jpg",
+    "group_id": 25
+  },
+  {
+    "folder_id": "1138",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1138",
+    "pred_score": 0.4027131706857795,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1138/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "1158",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1158",
+    "pred_score": 0.4802051271415419,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1158/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "1192",
+    "price": 95.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1192",
+    "pred_score": 0.49071921775531435,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1192/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "671",
+    "price": 96.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/671",
+    "pred_score": 0.48403471029855105,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/671/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "721",
+    "price": 96.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/721",
+    "pred_score": 0.494683946043046,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/721/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "941",
+    "price": 96.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/941",
+    "pred_score": 0.5007646345701586,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/941/figure/1.jpg",
+    "group_id": 26
+  },
+  {
+    "folder_id": "960",
+    "price": 96.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/960",
+    "pred_score": 0.5021157239704431,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/960/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "1194",
+    "price": 96.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1194",
+    "pred_score": 0.4775914767136176,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1194/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "781",
+    "price": 98.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/781",
+    "pred_score": 0.46016892585127306,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/781/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "948",
+    "price": 98.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/948",
+    "pred_score": 0.4659203760351779,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/948/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "990",
+    "price": 99.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/990",
+    "pred_score": 0.44308544674681294,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/990/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "1085",
+    "price": 99.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1085",
+    "pred_score": 0.4778047373725308,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1085/figure/1.jpg",
+    "group_id": 27
+  },
+  {
+    "folder_id": "1131",
+    "price": 99.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1131",
+    "pred_score": 0.5187989284814749,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1131/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "1145",
+    "price": 99.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1145",
+    "pred_score": 0.5264002109599661,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1145/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "657",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/657",
+    "pred_score": 0.4696551412796705,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/657/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "663",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/663",
+    "pred_score": 0.43526130088139325,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/663/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "676",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/676",
+    "pred_score": 0.4336269326740876,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/676/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "689",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/689",
+    "pred_score": 0.4540805886240883,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/689/figure/1.jpg",
+    "group_id": 28
+  },
+  {
+    "folder_id": "708",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/708",
+    "pred_score": 0.49054326550362426,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/708/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "713",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/713",
+    "pred_score": 0.3910630950542529,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/713/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "723",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/723",
+    "pred_score": 0.5075527251853297,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/723/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "726",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/726",
+    "pred_score": 0.5127440449319288,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/726/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "735",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/735",
+    "pred_score": 0.45058549026725814,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/735/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "753",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/753",
+    "pred_score": 0.5124271826611625,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/753/figure/1.jpg",
+    "group_id": 29
+  },
+  {
+    "folder_id": "760",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/760",
+    "pred_score": 0.4610137678682804,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/760/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "776",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/776",
+    "pred_score": 0.4608144586284955,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/776/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "777",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/777",
+    "pred_score": 0.46534622605476117,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/777/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "805",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/805",
+    "pred_score": 0.4515224869052569,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/805/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "806",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/806",
+    "pred_score": 0.4827936231288024,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/806/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "807",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/807",
+    "pred_score": 0.4685234193796835,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/807/figure/1.jpg",
+    "group_id": 30
+  },
+  {
+    "folder_id": "815",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/815",
+    "pred_score": 0.48069117758455426,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/815/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "821",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/821",
+    "pred_score": 0.4739974971582544,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/821/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "829",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/829",
+    "pred_score": 0.42827607225626707,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/829/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "838",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/838",
+    "pred_score": 0.5155278581498552,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/838/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "840",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/840",
+    "pred_score": 0.5115652236272581,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/840/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "846",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/846",
+    "pred_score": 0.46232602188602967,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/846/figure/1.jpg",
+    "group_id": 31
+  },
+  {
+    "folder_id": "850",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/850",
+    "pred_score": 0.4086609353673541,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/850/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "852",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/852",
+    "pred_score": 0.4623272707685828,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/852/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "885",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/885",
+    "pred_score": 0.48380072100877036,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/885/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "886",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/886",
+    "pred_score": 0.47309604697188157,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/886/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "897",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/897",
+    "pred_score": 0.4657079325212787,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/897/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "904",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/904",
+    "pred_score": 0.44358458357035285,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/904/figure/1.jpg",
+    "group_id": 32
+  },
+  {
+    "folder_id": "905",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/905",
+    "pred_score": 0.43821127821380895,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/905/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "906",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/906",
+    "pred_score": 0.5071561052496286,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/906/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "919",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/919",
+    "pred_score": 0.4801876646363073,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/919/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "930",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/930",
+    "pred_score": 0.4645155650537668,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/930/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "933",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/933",
+    "pred_score": 0.530376736074686,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/933/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "940",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/940",
+    "pred_score": 0.4689108450814577,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/940/figure/1.jpg",
+    "group_id": 33
+  },
+  {
+    "folder_id": "945",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/945",
+    "pred_score": 0.49003139045089483,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/945/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "958",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/958",
+    "pred_score": 0.45504565888808834,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/958/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "978",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/978",
+    "pred_score": 0.44088519845778745,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/978/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "980",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/980",
+    "pred_score": 0.4629411546435828,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/980/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "981",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/981",
+    "pred_score": 0.42203271358610234,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/981/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "995",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/995",
+    "pred_score": 0.46517798567139024,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/995/figure/1.jpg",
+    "group_id": 34
+  },
+  {
+    "folder_id": "1024",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1024",
+    "pred_score": 0.44702708755438736,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1024/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1051",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1051",
+    "pred_score": 0.4847302856150135,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1051/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1066",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1066",
+    "pred_score": 0.48073331067442066,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1066/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1081",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1081",
+    "pred_score": 0.4448227435350418,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1081/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1086",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1086",
+    "pred_score": 0.4838151008459843,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1086/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1091",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1091",
+    "pred_score": 0.4735658865473751,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1091/figure/1.jpg",
+    "group_id": 35
+  },
+  {
+    "folder_id": "1099",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1099",
+    "pred_score": 0.5167699207215466,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1099/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1108",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1108",
+    "pred_score": 0.4578643165942695,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1108/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1124",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1124",
+    "pred_score": 0.48468638595659286,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1124/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1125",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1125",
+    "pred_score": 0.5036520738503896,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1125/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1139",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1139",
+    "pred_score": 0.4321478578882913,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1139/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1150",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1150",
+    "pred_score": 0.4461931029541625,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1150/figure/1.jpg",
+    "group_id": 36
+  },
+  {
+    "folder_id": "1152",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1152",
+    "pred_score": 0.48593268921184873,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1152/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1155",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1155",
+    "pred_score": 0.5163762127033098,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1155/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1159",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1159",
+    "pred_score": 0.4978355816104643,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1159/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1169",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1169",
+    "pred_score": 0.5156447780059857,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1169/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1181",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1181",
+    "pred_score": 0.4658720847413254,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1181/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1182",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1182",
+    "pred_score": 0.4687867230079266,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1182/figure/1.jpg",
+    "group_id": 37
+  },
+  {
+    "folder_id": "1185",
+    "price": 100.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1185",
+    "pred_score": 0.389291750629329,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1185/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "751",
+    "price": 101.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/751",
+    "pred_score": 0.4901819731522765,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/751/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "818",
+    "price": 101.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/818",
+    "pred_score": 0.4282898999647134,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/818/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "900",
+    "price": 101.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/900",
+    "pred_score": 0.4138270194849206,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/900/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "1065",
+    "price": 101.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1065",
+    "pred_score": 0.45894120335328303,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1065/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "694",
+    "price": 102.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/694",
+    "pred_score": 0.44828625465743244,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/694/figure/1.jpg",
+    "group_id": 38
+  },
+  {
+    "folder_id": "783",
+    "price": 102.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/783",
+    "pred_score": 0.4807642160190476,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/783/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "787",
+    "price": 102.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/787",
+    "pred_score": 0.42283578739605016,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/787/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "824",
+    "price": 102.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/824",
+    "pred_score": 0.5125187644734979,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/824/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "947",
+    "price": 102.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/947",
+    "pred_score": 0.4804549861712278,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/947/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "768",
+    "price": 103.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/768",
+    "pred_score": 0.5137326815294929,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/768/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "1156",
+    "price": 103.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1156",
+    "pred_score": 0.476577349298168,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1156/figure/1.jpg",
+    "group_id": 39
+  },
+  {
+    "folder_id": "660",
+    "price": 104.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/660",
+    "pred_score": 0.44911076231963104,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/660/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "702",
+    "price": 104.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/702",
+    "pred_score": 0.4265328285594781,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/702/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "1006",
+    "price": 104.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1006",
+    "pred_score": 0.4991142657171521,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1006/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "1146",
+    "price": 104.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1146",
+    "pred_score": 0.42798876979698736,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1146/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "814",
+    "price": 105.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/814",
+    "pred_score": 0.4571237403821821,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/814/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "955",
+    "price": 105.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/955",
+    "pred_score": 0.47148376533813363,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/955/figure/1.jpg",
+    "group_id": 40
+  },
+  {
+    "folder_id": "1063",
+    "price": 105.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1063",
+    "pred_score": 0.49492057527984595,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1063/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "1140",
+    "price": 106.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1140",
+    "pred_score": 0.47549851753541994,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1140/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "759",
+    "price": 108.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/759",
+    "pred_score": 0.4852577680964411,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/759/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "659",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/659",
+    "pred_score": 0.4539845153841371,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/659/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "668",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/668",
+    "pred_score": 0.44772084265423473,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/668/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "670",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/670",
+    "pred_score": 0.4701902354718186,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/670/figure/1.jpg",
+    "group_id": 41
+  },
+  {
+    "folder_id": "677",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/677",
+    "pred_score": 0.45382936789731804,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/677/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "688",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/688",
+    "pred_score": 0.4907065491942275,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/688/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "711",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/711",
+    "pred_score": 0.46155805316650206,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/711/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "722",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/722",
+    "pred_score": 0.4459197371680703,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/722/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "733",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/733",
+    "pred_score": 0.4604890800546855,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/733/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "734",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/734",
+    "pred_score": 0.527105812330976,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/734/figure/1.jpg",
+    "group_id": 42
+  },
+  {
+    "folder_id": "740",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/740",
+    "pred_score": 0.4562593597608308,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/740/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "813",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/813",
+    "pred_score": 0.4472353345158303,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/813/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "827",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/827",
+    "pred_score": 0.4473702516988851,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/827/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "848",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/848",
+    "pred_score": 0.4476134960778937,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/848/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "867",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/867",
+    "pred_score": 0.4535952853103582,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/867/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "870",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/870",
+    "pred_score": 0.4679814560610491,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/870/figure/1.jpg",
+    "group_id": 43
+  },
+  {
+    "folder_id": "878",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/878",
+    "pred_score": 0.44790562454404104,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/878/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "902",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/902",
+    "pred_score": 0.49442724102280206,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/902/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "917",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/917",
+    "pred_score": 0.46356157922289437,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/917/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "962",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/962",
+    "pred_score": 0.5030660081942592,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/962/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "966",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/966",
+    "pred_score": 0.45566243763702613,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/966/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "968",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/968",
+    "pred_score": 0.5128519580596023,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/968/figure/1.jpg",
+    "group_id": 44
+  },
+  {
+    "folder_id": "1008",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1008",
+    "pred_score": 0.440387795226545,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1008/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1012",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1012",
+    "pred_score": 0.45493397049398887,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1012/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1032",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1032",
+    "pred_score": 0.45504051162343884,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1032/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1049",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1049",
+    "pred_score": 0.46662438024132924,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1049/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1079",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1079",
+    "pred_score": 0.4502676208374194,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1079/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1104",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1104",
+    "pred_score": 0.49614693749592537,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1104/figure/1.jpg",
+    "group_id": 45
+  },
+  {
+    "folder_id": "1107",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1107",
+    "pred_score": 0.48391265649762416,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1107/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1116",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1116",
+    "pred_score": 0.46415770514674176,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1116/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1118",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1118",
+    "pred_score": 0.5246731050105559,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1118/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1126",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1126",
+    "pred_score": 0.4746376986020348,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1126/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1134",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1134",
+    "pred_score": 0.4900513191629822,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1134/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1154",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1154",
+    "pred_score": 0.45182946203405866,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1154/figure/1.jpg",
+    "group_id": 46
+  },
+  {
+    "folder_id": "1157",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1157",
+    "pred_score": 0.45143856822202605,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1157/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "1172",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1172",
+    "pred_score": 0.4631450553537838,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1172/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "1184",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1184",
+    "pred_score": 0.5054288449642222,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1184/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "1188",
+    "price": 110.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1188",
+    "pred_score": 0.45297063721550834,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1188/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "709",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/709",
+    "pred_score": 0.4567757899252077,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/709/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "745",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/745",
+    "pred_score": 0.4551125595955657,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/745/figure/1.jpg",
+    "group_id": 47
+  },
+  {
+    "folder_id": "823",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/823",
+    "pred_score": 0.4660031159874052,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/823/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "935",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/935",
+    "pred_score": 0.46744809015136624,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/935/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "1090",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1090",
+    "pred_score": 0.4843185117723705,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1090/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "1130",
+    "price": 111.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1130",
+    "pred_score": 0.48799508699772154,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1130/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "809",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/809",
+    "pred_score": 0.48338195629831815,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/809/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "954",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/954",
+    "pred_score": 0.4913332261559036,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/954/figure/1.jpg",
+    "group_id": 48
+  },
+  {
+    "folder_id": "1044",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1044",
+    "pred_score": 0.44397717248648405,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1044/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "1046",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1046",
+    "pred_score": 0.43059594008243746,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1046/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "1071",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1071",
+    "pred_score": 0.4828300478305512,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1071/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "1105",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1105",
+    "pred_score": 0.4481550023580591,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1105/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "1175",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1175",
+    "pred_score": 0.45798394999777275,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1175/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "1195",
+    "price": 112.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1195",
+    "pred_score": 0.4419989626751178,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1195/figure/1.jpg",
+    "group_id": 49
+  },
+  {
+    "folder_id": "697",
+    "price": 113.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/697",
+    "pred_score": 0.41882699862536454,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/697/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "791",
+    "price": 113.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/791",
+    "pred_score": 0.4947152751620807,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/791/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "907",
+    "price": 113.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/907",
+    "pred_score": 0.47731295476357144,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/907/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "963",
+    "price": 113.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/963",
+    "pred_score": 0.45930504912070724,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/963/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "1017",
+    "price": 113.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1017",
+    "pred_score": 0.5015245682378817,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1017/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "1084",
+    "price": 114.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1084",
+    "pred_score": 0.48223742961676586,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1084/figure/1.jpg",
+    "group_id": 50
+  },
+  {
+    "folder_id": "1089",
+    "price": 114.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1089",
+    "pred_score": 0.4612615663354518,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1089/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "1179",
+    "price": 114.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1179",
+    "pred_score": 0.48955263300902313,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1179/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "822",
+    "price": 116.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/822",
+    "pred_score": 0.5414732901586427,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/822/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "923",
+    "price": 119.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/923",
+    "pred_score": 0.46200554839742836,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/923/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "700",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/700",
+    "pred_score": 0.49750136093320585,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/700/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "703",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/703",
+    "pred_score": 0.47658401800112593,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/703/figure/1.jpg",
+    "group_id": 51
+  },
+  {
+    "folder_id": "752",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/752",
+    "pred_score": 0.49625488290459746,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/752/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "775",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/775",
+    "pred_score": 0.4511499069113698,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/775/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "810",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/810",
+    "pred_score": 0.46208332907149774,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/810/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "828",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/828",
+    "pred_score": 0.49705241343730855,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/828/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "847",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/847",
+    "pred_score": 0.4729097759506355,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/847/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "857",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/857",
+    "pred_score": 0.4418204079330381,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/857/figure/1.jpg",
+    "group_id": 52
+  },
+  {
+    "folder_id": "859",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/859",
+    "pred_score": 0.42258511396519477,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/859/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "879",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/879",
+    "pred_score": 0.47819765229036826,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/879/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "918",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/918",
+    "pred_score": 0.4611343443911109,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/918/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "943",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/943",
+    "pred_score": 0.526611930056889,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/943/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "1007",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1007",
+    "pred_score": 0.438953814448218,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1007/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "1038",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1038",
+    "pred_score": 0.43961005999396247,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1038/figure/1.jpg",
+    "group_id": 53
+  },
+  {
+    "folder_id": "1053",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1053",
+    "pred_score": 0.46310922286809525,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1053/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1055",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1055",
+    "pred_score": 0.4634728288381464,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1055/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1062",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1062",
+    "pred_score": 0.5295189219630427,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1062/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1087",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1087",
+    "pred_score": 0.48403430710378514,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1087/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1101",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1101",
+    "pred_score": 0.4773905047461287,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1101/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1106",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1106",
+    "pred_score": 0.47368825205517673,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1106/figure/1.jpg",
+    "group_id": 54
+  },
+  {
+    "folder_id": "1113",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1113",
+    "pred_score": 0.4946532140796383,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1113/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "1151",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1151",
+    "pred_score": 0.49759889394044876,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1151/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "1170",
+    "price": 120.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1170",
+    "pred_score": 0.47144097874277374,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1170/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "674",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/674",
+    "pred_score": 0.5083006002759147,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/674/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "770",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/770",
+    "pred_score": 0.47520126526554424,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/770/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "843",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/843",
+    "pred_score": 0.43893582980510676,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/843/figure/1.jpg",
+    "group_id": 55
+  },
+  {
+    "folder_id": "937",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/937",
+    "pred_score": 0.4620353172067553,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/937/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1035",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1035",
+    "pred_score": 0.48153808553696664,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1035/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1571",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1571",
+    "pred_score": 0.469587031538443,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1571/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1589",
+    "price": 121.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1589",
+    "pred_score": 0.4598263952195541,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1589/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1363",
+    "price": 122.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1363",
+    "pred_score": 0.46090873377397656,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1363/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1391",
+    "price": 122.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1391",
+    "pred_score": 0.477838887522618,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1391/figure/1.jpg",
+    "group_id": 56
+  },
+  {
+    "folder_id": "1388",
+    "price": 123.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1388",
+    "pred_score": 0.5208734635315422,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1388/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1248",
+    "price": 124.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1248",
+    "pred_score": 0.4795280920677922,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1248/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1361",
+    "price": 124.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1361",
+    "pred_score": 0.4804901247585399,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1361/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1545",
+    "price": 124.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1545",
+    "pred_score": 0.47223045874852687,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1545/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1256",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1256",
+    "pred_score": 0.43063021389146644,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1256/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1258",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1258",
+    "pred_score": 0.4748737582962753,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1258/figure/1.jpg",
+    "group_id": 57
+  },
+  {
+    "folder_id": "1313",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1313",
+    "pred_score": 0.48935028779022915,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1313/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1321",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1321",
+    "pred_score": 0.440644837424366,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1321/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1340",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1340",
+    "pred_score": 0.4612982705358364,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1340/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1387",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1387",
+    "pred_score": 0.4287235148044096,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1387/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1436",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1436",
+    "pred_score": 0.4859472859081709,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1436/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1466",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1466",
+    "pred_score": 0.48572848937732893,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1466/figure/1.jpg",
+    "group_id": 58
+  },
+  {
+    "folder_id": "1479",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1479",
+    "pred_score": 0.395887557810056,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1479/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1483",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1483",
+    "pred_score": 0.48166852206405664,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1483/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1548",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1548",
+    "pred_score": 0.44195677219734836,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1548/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1575",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1575",
+    "pred_score": 0.45484621915319523,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1575/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1587",
+    "price": 125.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1587",
+    "pred_score": 0.4747207148983661,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1587/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1336",
+    "price": 126.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1336",
+    "pred_score": 0.49239998318565387,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1336/figure/1.jpg",
+    "group_id": 59
+  },
+  {
+    "folder_id": "1423",
+    "price": 126.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1423",
+    "pred_score": 0.47371080504833823,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1423/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1441",
+    "price": 126.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1441",
+    "pred_score": 0.4688543761925151,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1441/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1482",
+    "price": 127.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1482",
+    "pred_score": 0.4746883747737027,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1482/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1197",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1197",
+    "pred_score": 0.4475872862773637,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1197/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1206",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1206",
+    "pred_score": 0.5136774898791272,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1206/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1233",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1233",
+    "pred_score": 0.48406149025282097,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1233/figure/1.jpg",
+    "group_id": 60
+  },
+  {
+    "folder_id": "1261",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1261",
+    "pred_score": 0.43778116525047356,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1261/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1265",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1265",
+    "pred_score": 0.4305986100807786,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1265/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1291",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1291",
+    "pred_score": 0.500905765285198,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1291/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1293",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1293",
+    "pred_score": 0.4752092646667734,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1293/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1315",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1315",
+    "pred_score": 0.4365157523360621,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1315/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1390",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1390",
+    "pred_score": 0.5151439835058732,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1390/figure/1.jpg",
+    "group_id": 61
+  },
+  {
+    "folder_id": "1406",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1406",
+    "pred_score": 0.5016008480549013,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1406/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1430",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1430",
+    "pred_score": 0.44251856249239707,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1430/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1437",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1437",
+    "pred_score": 0.5353122489072525,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1437/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1445",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1445",
+    "pred_score": 0.4802356501006418,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1445/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1450",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1450",
+    "pred_score": 0.4865936191571463,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1450/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1463",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1463",
+    "pred_score": 0.5026360590838723,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1463/figure/1.jpg",
+    "group_id": 62
+  },
+  {
+    "folder_id": "1476",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1476",
+    "pred_score": 0.4578236503891983,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1476/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1506",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1506",
+    "pred_score": 0.4290574509133067,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1506/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1535",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1535",
+    "pred_score": 0.45010698478048045,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1535/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1536",
+    "price": 130.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1536",
+    "pred_score": 0.4593136089646982,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1536/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1264",
+    "price": 131.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1264",
+    "pred_score": 0.47584937993087806,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1264/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1307",
+    "price": 131.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1307",
+    "pred_score": 0.5137313092741856,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1307/figure/1.jpg",
+    "group_id": 63
+  },
+  {
+    "folder_id": "1380",
+    "price": 131.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1380",
+    "pred_score": 0.4479363265240358,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1380/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1500",
+    "price": 131.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1500",
+    "pred_score": 0.45062193326561506,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1500/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1239",
+    "price": 132.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1239",
+    "pred_score": 0.4516175297451102,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1239/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1475",
+    "price": 132.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1475",
+    "pred_score": 0.490575373803343,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1475/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1492",
+    "price": 132.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1492",
+    "pred_score": 0.4696908669753207,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1492/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1573",
+    "price": 132.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1573",
+    "pred_score": 0.4399783205654886,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1573/figure/1.jpg",
+    "group_id": 64
+  },
+  {
+    "folder_id": "1304",
+    "price": 133.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1304",
+    "pred_score": 0.4459542164242723,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1304/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1347",
+    "price": 133.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1347",
+    "pred_score": 0.4717778673188554,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1347/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1273",
+    "price": 135.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1273",
+    "pred_score": 0.46686874935403466,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1273/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1325",
+    "price": 135.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1325",
+    "pred_score": 0.45103057343900826,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1325/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1470",
+    "price": 135.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1470",
+    "pred_score": 0.528831802850214,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1470/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1346",
+    "price": 137.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1346",
+    "pred_score": 0.5390494010902734,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1346/figure/1.jpg",
+    "group_id": 65
+  },
+  {
+    "folder_id": "1576",
+    "price": 138.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1576",
+    "pred_score": 0.46299150575780207,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1576/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1219",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1219",
+    "pred_score": 0.47086136437105275,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1219/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1230",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1230",
+    "pred_score": 0.4370142297508816,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1230/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1295",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1295",
+    "pred_score": 0.49514667710658006,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1295/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1298",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1298",
+    "pred_score": 0.43041169912450844,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1298/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1319",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1319",
+    "pred_score": 0.5023885241243988,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1319/figure/1.jpg",
+    "group_id": 66
+  },
+  {
+    "folder_id": "1342",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1342",
+    "pred_score": 0.4829312740669896,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1342/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1353",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1353",
+    "pred_score": 0.49119243600095314,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1353/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1357",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1357",
+    "pred_score": 0.4443650411234962,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1357/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1381",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1381",
+    "pred_score": 0.5011951992815334,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1381/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1401",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1401",
+    "pred_score": 0.49380348519318634,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1401/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1510",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1510",
+    "pred_score": 0.4854598814628035,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1510/figure/1.jpg",
+    "group_id": 67
+  },
+  {
+    "folder_id": "1546",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1546",
+    "pred_score": 0.4965503606589563,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1546/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1551",
+    "price": 140.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1551",
+    "pred_score": 0.4742638584640291,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1551/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1354",
+    "price": 141.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1354",
+    "pred_score": 0.49407363263890147,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1354/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1352",
+    "price": 142.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1352",
+    "pred_score": 0.5166582781465776,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1352/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1231",
+    "price": 143.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1231",
+    "pred_score": 0.5082997298126833,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1231/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1281",
+    "price": 144.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1281",
+    "pred_score": 0.44983531076771516,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1281/figure/1.jpg",
+    "group_id": 68
+  },
+  {
+    "folder_id": "1359",
+    "price": 144.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1359",
+    "pred_score": 0.4740285340489613,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1359/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1562",
+    "price": 144.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1562",
+    "pred_score": 0.472815298061404,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1562/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1358",
+    "price": 145.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1358",
+    "pred_score": 0.48356906796187915,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1358/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1386",
+    "price": 145.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1386",
+    "pred_score": 0.41299626897347885,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1386/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1443",
+    "price": 145.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1443",
+    "pred_score": 0.465921569072331,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1443/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1572",
+    "price": 145.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1572",
+    "pred_score": 0.4779521029300263,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1572/figure/1.jpg",
+    "group_id": 69
+  },
+  {
+    "folder_id": "1409",
+    "price": 149.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1409",
+    "pred_score": 0.48871348500769174,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1409/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1434",
+    "price": 149.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1434",
+    "pred_score": 0.4535219843447622,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1434/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1198",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1198",
+    "pred_score": 0.46485917903353563,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1198/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1199",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1199",
+    "pred_score": 0.4733777312406649,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1199/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1203",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1203",
+    "pred_score": 0.4168685814107044,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1203/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1212",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1212",
+    "pred_score": 0.4732517056011905,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1212/figure/1.jpg",
+    "group_id": 70
+  },
+  {
+    "folder_id": "1247",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1247",
+    "pred_score": 0.5188751646524502,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1247/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1251",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1251",
+    "pred_score": 0.4685654820318127,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1251/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1271",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1271",
+    "pred_score": 0.49839472338660723,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1271/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1272",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1272",
+    "pred_score": 0.4998127204534184,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1272/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1284",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1284",
+    "pred_score": 0.4660762253139789,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1284/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1287",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1287",
+    "pred_score": 0.5224407560405476,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1287/figure/1.jpg",
+    "group_id": 71
+  },
+  {
+    "folder_id": "1303",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1303",
+    "pred_score": 0.4881955954867105,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1303/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1356",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1356",
+    "pred_score": 0.493824828283525,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1356/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1368",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1368",
+    "pred_score": 0.5173974547522247,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1368/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1372",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1372",
+    "pred_score": 0.48753789141644827,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1372/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1382",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1382",
+    "pred_score": 0.44800019280389985,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1382/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1402",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1402",
+    "pred_score": 0.49582286344634163,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1402/figure/1.jpg",
+    "group_id": 72
+  },
+  {
+    "folder_id": "1416",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1416",
+    "pred_score": 0.4447296153391815,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1416/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1435",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1435",
+    "pred_score": 0.40449350761870545,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1435/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1440",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1440",
+    "pred_score": 0.47990489445833695,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1440/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1442",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1442",
+    "pred_score": 0.4792179756332189,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1442/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1455",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1455",
+    "pred_score": 0.42711084690462386,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1455/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1462",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1462",
+    "pred_score": 0.4135348441907101,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1462/figure/1.jpg",
+    "group_id": 73
+  },
+  {
+    "folder_id": "1481",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1481",
+    "pred_score": 0.4525363698808683,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1481/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1491",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1491",
+    "pred_score": 0.5192547432767848,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1491/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1498",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1498",
+    "pred_score": 0.4243082042473058,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1498/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1521",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1521",
+    "pred_score": 0.433783071839975,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1521/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1523",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1523",
+    "pred_score": 0.38973513283094185,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1523/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1532",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1532",
+    "pred_score": 0.46616022381931543,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1532/figure/1.jpg",
+    "group_id": 74
+  },
+  {
+    "folder_id": "1566",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1566",
+    "pred_score": 0.4380835083106326,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1566/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1567",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1567",
+    "pred_score": 0.44255594530194586,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1567/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1568",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1568",
+    "pred_score": 0.508143813155281,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1568/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1570",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1570",
+    "pred_score": 0.4390116351165084,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1570/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1588",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1588",
+    "pred_score": 0.46112354554417023,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1588/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1593",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1593",
+    "pred_score": 0.4795031067139159,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1593/figure/1.jpg",
+    "group_id": 75
+  },
+  {
+    "folder_id": "1594",
+    "price": 150.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1594",
+    "pred_score": 0.4709756202193805,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1594/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1249",
+    "price": 151.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1249",
+    "pred_score": 0.4924823782251527,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1249/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1296",
+    "price": 151.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1296",
+    "pred_score": 0.44432692007265157,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1296/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1526",
+    "price": 151.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1526",
+    "pred_score": 0.4562706717859126,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1526/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1542",
+    "price": 151.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1542",
+    "pred_score": 0.4525732481981524,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1542/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1493",
+    "price": 152.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1493",
+    "pred_score": 0.4588115541652466,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1493/figure/1.jpg",
+    "group_id": 76
+  },
+  {
+    "folder_id": "1496",
+    "price": 152.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1496",
+    "pred_score": 0.47700132289901376,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1496/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1244",
+    "price": 155.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1244",
+    "pred_score": 0.4701606231198336,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1244/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1400",
+    "price": 155.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1400",
+    "pred_score": 0.42567731705235523,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1400/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1495",
+    "price": 155.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1495",
+    "pred_score": 0.4954049822408706,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1495/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1507",
+    "price": 155.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1507",
+    "pred_score": 0.46309410211526686,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1507/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1374",
+    "price": 158.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1374",
+    "pred_score": 0.44080942641529774,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1374/figure/1.jpg",
+    "group_id": 77
+  },
+  {
+    "folder_id": "1509",
+    "price": 158.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1509",
+    "pred_score": 0.503083512549185,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1509/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1210",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1210",
+    "pred_score": 0.4531641879843341,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1210/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1214",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1214",
+    "pred_score": 0.4434021302473007,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1214/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1229",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1229",
+    "pred_score": 0.46037392238698277,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1229/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1237",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1237",
+    "pred_score": 0.4575381020549685,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1237/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1311",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1311",
+    "pred_score": 0.4599752946717975,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1311/figure/1.jpg",
+    "group_id": 78
+  },
+  {
+    "folder_id": "1314",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1314",
+    "pred_score": 0.46337053769578535,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1314/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1329",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1329",
+    "pred_score": 0.4431258518856743,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1329/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1335",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1335",
+    "pred_score": 0.4461368304724197,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1335/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1379",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1379",
+    "pred_score": 0.4388680000233257,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1379/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1392",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1392",
+    "pred_score": 0.43386081062878173,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1392/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1397",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1397",
+    "pred_score": 0.521248375102813,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1397/figure/1.jpg",
+    "group_id": 79
+  },
+  {
+    "folder_id": "1422",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1422",
+    "pred_score": 0.5120715172217589,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1422/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1427",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1427",
+    "pred_score": 0.47201228317701155,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1427/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1438",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1438",
+    "pred_score": 0.5230555200412508,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1438/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1457",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1457",
+    "pred_score": 0.3479724398639519,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1457/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1524",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1524",
+    "pred_score": 0.47731806313256836,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1524/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1528",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1528",
+    "pred_score": 0.44552847949994934,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1528/figure/1.jpg",
+    "group_id": 80
+  },
+  {
+    "folder_id": "1539",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1539",
+    "pred_score": 0.5036616736130478,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1539/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1574",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1574",
+    "pred_score": 0.5086162838011256,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1574/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1577",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1577",
+    "pred_score": 0.4801909182117217,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1577/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1581",
+    "price": 160.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1581",
+    "pred_score": 0.5079511220618669,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1581/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1277",
+    "price": 161.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1277",
+    "pred_score": 0.49622048323767054,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1277/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1460",
+    "price": 161.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1460",
+    "pred_score": 0.45103812949835426,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1460/figure/1.jpg",
+    "group_id": 81
+  },
+  {
+    "folder_id": "1308",
+    "price": 164.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1308",
+    "pred_score": 0.5137779344804585,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1308/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1215",
+    "price": 165.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1215",
+    "pred_score": 0.4670838359872707,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1215/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1301",
+    "price": 165.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1301",
+    "pred_score": 0.4754961612569686,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1301/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1351",
+    "price": 165.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1351",
+    "pred_score": 0.4531428979244083,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1351/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1550",
+    "price": 165.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1550",
+    "pred_score": 0.4492416099593457,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1550/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1554",
+    "price": 168.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1554",
+    "pred_score": 0.4444899674401515,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1554/figure/1.jpg",
+    "group_id": 82
+  },
+  {
+    "folder_id": "1208",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1208",
+    "pred_score": 0.5317347033997066,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1208/figure/1.jpg",
+    "group_id": 83
+  },
+  {
+    "folder_id": "1242",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1242",
+    "pred_score": 0.47147166335748303,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1242/figure/1.jpg",
+    "group_id": 83
+  },
+  {
+    "folder_id": "1250",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1250",
+    "pred_score": 0.46400543220806867,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1250/figure/1.jpg",
+    "group_id": 83
+  },
+  {
+    "folder_id": "1280",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1280",
+    "pred_score": 0.5434673857881636,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1280/figure/1.jpg",
+    "group_id": 83
+  },
+  {
+    "folder_id": "1322",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1322",
+    "pred_score": 0.4596528918239831,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1322/figure/1.jpg",
+    "group_id": 83
+  },
+  {
+    "folder_id": "1362",
+    "price": 170.0,
+    "folder_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1362",
+    "pred_score": 0.4704103064238249,
+    "image_path": "/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/1362/figure/1.jpg",
+    "group_id": 83
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "Low-price": {
+    "Acc": 0.1888,
+    "NDCG@1": 0.995,
+    "NDCG@3": 0.9963,
+    "Spearman_rho": -0.0677
+  },
+  "Mid-price": {
+    "Acc": 0.1548,
+    "NDCG@1": 0.9967,
+    "NDCG@3": 0.9976,
+    "Spearman_rho": -0.121
+  },
+  "High-price": {
+    "Acc": 0.2308,
+    "NDCG@1": 0.9929,
+    "NDCG@3": 0.9961,
+    "Spearman_rho": 0.0604
+  },
+  "Near-Tie-low": {
+    "Acc": 0.2264,
+    "NDCG@1": 1.0,
+    "NDCG@3": 1.0,
+    "Spearman_rho": 0.0
+  },
+  "Near-Tie-high": {
+    "Acc": 0.1132,
+    "NDCG@1": 0.9821,
+    "NDCG@3": 0.987,
+    "Spearman_rho": -0.1251
+  },
+  "Overall": {
+    "Acc": 0.1842,
+    "NDCG@1": 0.9952,
+    "NDCG@3": 0.9967,
+    "Spearman_rho": -0.0554
+  }
+}

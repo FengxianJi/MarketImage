@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EmergingArt Ranking</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script defer src="/static/app.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <h1>EmergingArt Ranking</h1>
+        <p id="statusLine">Loading dataset</p>
+      </div>
+      <div class="toolbar">
+        <label class="field">
+          <span>Annotator</span>
+          <input id="annotatorInput" type="text" autocomplete="off" spellcheck="false">
+        </label>
+        <label class="field">
+          <span>Dataset</span>
+          <select id="datasetSelect"></select>
+        </label>
+        <button id="exportButton" class="secondary" type="button">Export</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="progressBlock">
+          <div class="progressMeta">
+            <span id="progressText">0 / 0</span>
+            <span id="remainingText">0 left</span>
+          </div>
+          <div class="progressTrack">
+            <div id="progressFill" class="progressFill"></div>
+          </div>
+        </section>
+
+        <section class="groupTools">
+          <label class="field compact">
+            <span>Group</span>
+            <input id="groupFilter" type="text" inputmode="numeric" autocomplete="off">
+          </label>
+          <label class="field compact">
+            <span>Limit</span>
+            <input id="limitInput" type="number" inputmode="numeric" min="1" autocomplete="off" placeholder="All">
+          </label>
+          <button id="firstPendingButton" class="secondary" type="button">Continue</button>
+        </section>
+
+        <nav id="groupList" class="groupList" aria-label="Groups"></nav>
+      </aside>
+
+      <section class="workspace">
+        <div class="workspaceHead">
+          <div>
+            <h2 id="groupTitle">Group</h2>
+            <p id="groupMeta">Select a group</p>
+          </div>
+          <div class="groupNav">
+            <button id="prevButton" class="secondary" type="button">Prev</button>
+            <button id="nextButton" class="secondary" type="button">Next</button>
+          </div>
+        </div>
+
+        <div id="rankBoard" class="rankBoard" aria-live="polite"></div>
+
+        <div class="annotationFooter">
+          <label class="notesField">
+            <span>Notes</span>
+            <textarea id="notesInput" rows="2"></textarea>
+          </label>
+          <div class="actions">
+            <button id="reloadButton" class="secondary" type="button">Reload</button>
+            <button id="saveButton" class="primary" type="button">Save</button>
+            <button id="saveNextButton" class="primary strong" type="button">Save + Next</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div id="modal" class="modal" hidden>
+      <div class="modalPanel">
+        <div class="modalHead">
+          <div>
+            <h3 id="modalTitle">Artwork</h3>
+            <p id="modalSubtitle"></p>
+          </div>
+          <button id="modalClose" class="secondary" type="button">Close</button>
+        </div>
+        <div class="modalBody">
+          <img id="modalImage" alt="">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

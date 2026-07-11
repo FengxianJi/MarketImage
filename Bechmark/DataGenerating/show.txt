@@ -1,0 +1,372 @@
+================================================================================
+EmergingArt Benchmark 数据集说明文档
+================================================================================
+（供论文写作参考）
+
+一、数据集概述
+================================================================================
+
+EmergingArt 是一个基于真实拍卖成交记录构建的艺术品价值评估基准数据集。
+我们基于 Mauer (2024) 发布的公开数据集 "Art auction result of prints"
+(DOI: 10.18150/AEQF8C) 进行整理和再加工。该原始数据集收录了 Catawiki（欧洲最大的
+在线拍卖平台之一）上 "Art - Prints"（版画/印刷艺术品）类别的拍卖成交记录。
+我们在此基础上进行了数据筛选、图片获取、结构化整理、评估分组和难度分层，
+构建了面向排序评估的 EmergingArt benchmark。
+
+该数据集的核心目标是：给定一组视觉上相似但成交价格不同的艺术品，评估模型能否正确
+排列（rank）它们的市场价值。
+
+最终数据集包含 1,596 件艺术品，来自 608 位艺术家，涵盖 160 种艺术技法，
+按每组 6 件的方式组织为 266 个评估组（evaluation group）。所有价格以欧元（EUR）
+计价，拍卖记录时间跨度为 2020 年 11 月至 2024 年 5 月。
+
+
+二、数据来源
+================================================================================
+
+EmergingArt 并非直接爬取 Catawiki，而是基于一个已有的公开数据集进行整理和再加工。
+
+1. 原始公开数据集
+   - 数据集名称: "Art auction result of prints"
+   - 作者: Patryk Mauer (Politechnika Opolska, ORCID: 0000-0003-4173-0424)
+   - DOI: https://doi.org/10.18150/AEQF8C
+   - 托管平台: RepOD (Repository for Open Data, ICM, University of Warsaw)
+   - 发布日期: 2024 年 9 月 5 日, Version 1.0
+   - 许可证: Open Data Commons Open Database License 1.0 (ODbL-1.0)
+   - 关联论文: "Tabular Data Models for Predicting Art Auction Results"
+              (Patryk Mauer & Szczepan Paszkiel, Applied Sciences, 2024)
+
+2. 原始数据集概况
+   - 数据来源: Catawiki 拍卖平台的版画/印刷品 (Prints) 拍卖记录
+   - 采集时间跨度: 2024 年 1 月 2 日至 2024 年 5 月 11 日（原始采集期）
+   - 我们使用的文件: results_2024_05_11.xlsx（完整数据集，约 55.6 MB）
+   - 原始数据集总量: 约 25,408 条记录（含不同变体）
+   - 原始字段: OBJECT, ARTIST, TITLE OF ARTWORK, PERIOD, TECHNIQUE, SIGNATURE,
+               EDITION, CONDITION, TOTAL DIMENSIONS, DESCRIPTION, EXPERT, URL,
+               ESTIMATION, AUCTION DATE, PRICE, PHOTO0, YEAR, WEIGHT, ImageId,
+               ImageName
+   - 该数据集还提供了 4 种变体（含/不含图像特征: Colorfulness Score, SVD Entropy）
+
+3. 我们的整理工作
+   我们从上述公开数据集出发，进行了以下加工以构建 EmergingArt benchmark：
+   (a) 数据筛选: 按价格范围和签名状态过滤（详见阶段 2）
+   (b) 图片获取: 利用原始数据集中的 ImageId 字段，从 Google Drive 下载对应的
+       拍卖图片，每件作品保留 1 张主图（figure/1.jpg）
+       - 下载 URL 格式: https://drive.google.com/uc?id={ImageId}&export=download
+       - 若下载失败则生成 800x600 灰色占位图
+   (c) 结构化整理: 将表格数据转换为以作品为单位的目录结构
+   (d) 评估分组: 设计价格分层 + 随机分组策略，构建排序评估任务
+   (e) 难度分层: 生成 Near-Tie 子集用于不同难度的评估
+
+4. 论文中的引用建议
+   引用原始数据集时，请使用以下格式：
+   @misc{mauer2024artauction,
+     title  = {Art auction result of prints},
+     author = {Mauer, Patryk},
+     year   = {2024},
+     doi    = {10.18150/AEQF8C},
+     publisher = {RepOD},
+     note   = {Version 1.0}
+   }
+
+
+三、数据处理管线（Pipeline）
+================================================================================
+
+完整处理流程由 pipeline.py 中的 AuctionDataPipeline 类实现，分为以下阶段：
+
+阶段 1: 数据加载（load_data）
+------------------------------------------------------------------------
+- 从公开数据集的 Excel 文件（results_2024_05_11.xlsx）加载原始拍卖数据为 pandas DataFrame
+- 原始数据集来源: Mauer (2024), DOI: 10.18150/AEQF8C
+- 支持 .xlsx / .csv / .tab 格式
+
+阶段 2: 数据过滤（filter_data）
+------------------------------------------------------------------------
+过滤条件如下：
+  (a) 价格过滤: 保留成交价在 [10, 1000] EUR 范围内的作品
+      - 下限 €10 排除了过于廉价、可能无收藏价值的作品
+      - 上限 €1000 聚焦于 "新兴市场" 价格区间
+  (b) 签名过滤: 仅保留 "Not signed"（未签名）的作品
+      - 目的: 排除因艺术家亲笔签名带来的额外价值溢价，
+        使价格更多地反映作品本身的视觉和艺术价值
+  (c) 过滤后保留约 1,595-1,598 件作品（从原始约 25,408 条记录中筛选）
+
+阶段 3: 人工审查
+------------------------------------------------------------------------
+- 对自动过滤后的数据进行人工检查和筛选
+- 确认图片质量、元数据正确性
+- 排除明显异常的记录
+
+阶段 4: 导出为 Benchmark 结构（export_to_benchmark）
+------------------------------------------------------------------------
+对每件作品创建独立的编号文件夹，包含：
+  {folder_id}/
+  ├── description.txt    # 作品元数据（详见下文）
+  ├── growth.json        # 价格数据（详见下文）
+  ├── source_url.txt     # Catawiki 拍卖编号（用于溯源核实）
+  └── figure/
+      └── 1.jpg          # 作品图片
+
+description.txt 字段：
+  - Title: 作品标题
+  - Artist: 艺术家姓名
+  - Year: 创作年份
+  - Technique: 艺术技法（如 Lithograph, Etching, Woodcut print 等）
+  - Dimensions: 作品尺寸
+  - Condition: 品相
+  - Description: 拍卖行提供的详细描述
+  - Category: Art - Prints（统一类别）
+  - Signature: Not signed（统一为未签名）
+  - Source: Catawiki 拍卖编号
+
+growth.json 字段：
+  - final_price: 最终成交价（如 "€44"）
+  - estimation: 预估价格（大部分为 N/A）
+  - auction_date: 拍卖日期（如 "2023-07-30 00:00:00"）
+  - price_numeric: 成交价的数值形式（如 44.0）
+
+阶段 5: 价格分组（create_price_groups_with_data_json）
+------------------------------------------------------------------------
+
+5.1 三段式价格分割（Optimal 3-Way Split）
+
+算法描述:
+  将所有作品按成交价升序排列后，搜索两个分割点 (split1, split2) 将数据
+  分为三个价格段。搜索范围：
+    split1 ∈ [25%n, 45%n)
+    split2 ∈ [55%n, 75%n)
+
+  优化目标:
+    score = value_std × 2 + count_std × (total_value / total_items)
+
+  其中：
+    value_std = 三段总金额的标准差（衡量金额均衡性）
+    count_std = 三段数量的标准差（衡量数量均衡性）
+    金额权重 × 2，在保证数量均衡的前提下优先追求金额均衡。
+
+最终分割结果：
+  ┌─────────────┬──────────┬─────────┬──────────────┬──────────────┐
+  │ Split       │ #Items   │ #Groups │ Price Range  │ Mean Price   │
+  ├─────────────┼──────────┼─────────┼──────────────┼──────────────┤
+  │ Low-price   │ 858      │ 143     │ €10 - €75    │ €43.2        │
+  │ Mid-price   │ 504      │  84     │ €75 - €170   │ €112.2       │
+  │ High-price  │ 234      │  39     │ €170 - €395  │ €260.5       │
+  ├─────────────┼──────────┼─────────┼──────────────┼──────────────┤
+  │ Overall     │ 1,596    │ 266     │ €10 - €395   │ €96.9        │
+  └─────────────┴──────────┴─────────┴──────────────┴──────────────┘
+
+  分界点:
+    Low ≤ €75 < Mid ≤ €170 < High
+
+5.2 组内分组（Grouping）
+
+  在每个价格段内部：
+  - 使用固定随机种子（Low: seed=42, Mid: seed=43, High: seed=44）打乱顺序
+  - 每 6 件作品为一组（group_size=6）
+  - 不足 2 件的残余组丢弃
+  - 最终所有组合并，重新编号 group_id = 0, 1, 2, ...
+
+  总计: 266 组 × 6 件/组 = 1,596 件
+
+  注: 同一组内的 6 件作品来自同一价格段，但价格并不完全相同。
+  评估任务要求模型对同组的 6 件作品按价值进行排序。
+
+阶段 6: Near-Tie 数据集生成（create_near_tie_dataset）
+------------------------------------------------------------------------
+
+为测试模型在不同难度场景下的表现，从 Overall 数据集中构造两个极端子集。
+
+核心指标 — 组内相对价格差距:
+  price_gap = (max_price - min_price) / max_price
+
+6.1 Near-Tie-low（最难区分的组）
+  - 从 266 个组中选取 price_gap 最小的 20%
+  - 选中 53 个组，共 318 件作品
+  - 实际 price_gap 范围: 0.000000（即同组所有作品成交价完全相同）
+  - 价格范围: €10 - €45，均值 €30.1
+  - 用途: 压力测试——当价格几乎无差异时，模型是否仍能给出合理排序
+
+6.2 Near-Tie-high（最容易区分的组）
+  - 从 266 个组中选取 price_gap 最大的 20%
+  - 选中 53 个组，共 318 件作品
+  - price_gap 范围: 0.023 - 0.200（组内最高价与最低价差距为 2.3%-20%）
+  - 价格范围: €12 - €390，均值 €121.5
+  - 用途: 基准测试——价格差距明显时模型的排序能力上限
+
+
+四、最终数据集结构
+================================================================================
+
+/mnt/data/user/fengxian.ji/AUCTION/benchmark/EmergingArt/
+├── 1/                          # 第 1 件作品
+│   ├── description.txt         # 元数据
+│   ├── growth.json             # 价格数据
+│   ├── source_url.txt          # 来源链接
+│   └── figure/
+│       └── 1.jpg               # 作品图片
+├── 2/
+│   └── ...
+├── ...
+├── 1595/
+│   └── ...
+└── data/                       # 分组 JSON 文件
+    ├── Overall.json            # 全部: 1,596 items, 266 groups
+    ├── Low-price.json          # 低价段: 858 items, 143 groups
+    ├── Mid-price.json          # 中价段: 504 items, 84 groups
+    ├── High-price.json         # 高价段: 234 items, 39 groups
+    ├── Near-Tie-low.json       # 近平局（难）: 318 items, 53 groups
+    └── Near-Tie-high.json      # 近平局（易）: 318 items, 53 groups
+
+JSON 文件中每条记录的结构：
+{
+    "folder_id": 19,            // 对应的作品文件夹编号
+    "price": 10.0,              // 成交价（EUR）
+    "folder_path": "...",       // 绝对路径
+    "group_id": 0               // 所属评估组编号
+}
+
+Near-Tie JSON 额外包含：
+{
+    "original_group_id": 0,     // Overall 中的原始组号
+    "price_gap": 0.0,           // 组内相对价格差距
+    "abs_gap": 0.0              // 组内绝对价格差距
+}
+
+
+五、数据集统计摘要
+================================================================================
+
+(1) 基本统计
+    总作品数:            1,596
+    评估组数:            266
+    每组作品数:          6
+    独立艺术家数:        608
+    独立技法数:          160
+    作品类别:            Art - Prints
+    货币:                EUR (€)
+    拍卖时间跨度:        2020/11 - 2024/05
+
+(2) 价格分布
+    最低价:              €10
+    Q25:                 €40
+    中位数:              €70
+    均值:                €96.9
+    Q75:                 €121
+    最高价:              €395
+    标准差:              €80.6
+
+(3) 拍卖年份分布
+    2020:    13 件
+    2021:    39 件
+    2022:    35 件
+    2023:   910 件
+    2024:   598 件
+
+(4) Top-5 艺术技法
+    Lithograph (石版画):              607 件 (38.0%)
+    Etching (蚀刻版画):               216 件 (13.5%)
+    Woodcut print (木刻版画):         127 件 (8.0%)
+    Engraving (雕版画):               107 件 (6.7%)
+    Silkscreen / Serigraph (丝网版画): 72 件 (4.5%)
+
+(5) 各评估子集统计
+    ┌───────────────┬────────┬─────────┬──────────────┬────────┬────────┐
+    │ Split         │ #Items │ #Groups │ Price Range  │ Mean   │ Median │
+    ├───────────────┼────────┼─────────┼──────────────┼────────┼────────┤
+    │ Overall       │ 1,596  │ 266     │ €10 - €395   │ €96.9  │ €70    │
+    │ Low-price     │ 858    │ 143     │ €10 - €75    │ €43.2  │ €45    │
+    │ Mid-price     │ 504    │  84     │ €75 - €170   │ €112.2 │ €110   │
+    │ High-price    │ 234    │  39     │ €170 - €395  │ €260.5 │ €250   │
+    │ Near-Tie-low  │ 318    │  53     │ €10 - €45    │ €30.1  │ €30    │
+    │ Near-Tie-high │ 318    │  53     │ €12 - €390   │ €121.5 │ €78    │
+    └───────────────┴────────┴─────────┴──────────────┴────────┴────────┘
+
+
+六、设计动机与要点（论文可引用）
+================================================================================
+
+1. 为什么选择 "Art - Prints" 类别？
+   - 版画是可复制的艺术形式，同一艺术家、同一技法的不同作品之间视觉差异较小，
+     价格差异主要由版本限量、品相、市场需求等细微因素决定
+   - 对模型的"细粒度价值判断"能力提出了真正的挑战
+   - 相比油画等独一无二的作品，版画更容易控制变量
+
+2. 为什么只保留未签名作品？
+   - 艺术家签名是一个强价格信号（签名作品通常显著更贵）
+   - 排除签名后，价格更多反映作品的视觉质量、稀缺性和市场认可度
+   - 避免模型"捷径学习"——仅通过检测签名来预测价格
+
+3. 为什么使用 6 件一组？
+   - 6 件提供足够的排序组合（6! = 720 种排列），使排序任务有足够难度
+   - 同时不会过大导致评估效率低下
+   - 参考了拍卖实践中 "lot" 的常见规模
+
+4. 评估任务定义
+   - 输入: 同组 6 件作品的图片和元数据描述
+   - 输出: 按预测市场价值从高到低的排序
+   - 真值: 按实际成交价格的排序
+   - 评估指标包括: Acc（精确排序准确率）、NDCG@k（排序质量）、
+     Spearman's ρ（排名相关性）等
+
+5. Near-Tie 子集的意义
+   - Near-Tie-low（price_gap = 0）: 所有作品成交价相同，任何排序本质上等价。
+     测试模型是否能在无法区分的情况下保持稳定，避免虚假的置信度
+   - Near-Tie-high（price_gap > 0.023）: 价格有明显差距，测试模型的排序上限
+   - 对比两者可以量化模型在不同难度下的性能退化程度
+
+
+七、代码文件清单
+================================================================================
+
+/mnt/data/user/fengxian.ji/AUCTION/DataGenerating/
+├── pipeline.py              # 主管线: 数据加载→过滤→导出→价格分组→Near-Tie生成
+│                            #   class AuctionDataPipeline
+│                            #     - load_data()
+│                            #     - filter_data(min_price, max_price, no_signature)
+│                            #     - export_to_benchmark(download_images)
+│                            #     - create_price_groups_with_data_json(group_size, ...)
+│                            #     - create_near_tie_low_dataset(percentile)
+│                            #     - create_near_tie_high_dataset(percentile)
+│                            #     - _find_optimal_splits_for_items()  # 最优3段分割算法
+│
+├── advanced_near_tie.py     # 高级 Near-Tie 生成器（灵活策略）
+│                            #   class AdvancedNearTieGenerator
+│                            #     - select_by_percentile()   百分位选择
+│                            #     - select_by_count()        数量选择
+│                            #     - select_by_threshold()    阈值选择（非连续）
+│                            #     - select_by_random()       随机选择
+│                            #     - select_by_indices()      跳跃索引选择
+│                            #     - select_by_group_ids()    指定组ID选择
+│                            #     - select_by_condition()    自定义 lambda 条件
+│                            #     - select_by_multi_conditions()  AND/OR 组合条件
+│
+├── README.md                # 数据整理说明 + 三阶段备忘
+├── requirements.txt         # Python 依赖: selenium, beautifulsoup4, requests 等
+└── __pycache__/
+    ├── pipeline.cpython-310.pyc
+    ├── advanced_near_tie.cpython-310.pyc
+    ├── advanced_scraper.cpython-310.pyc    # 历史文件（爬虫脚本，已删除源文件）
+    └── flexible_near_tie.cpython-310.pyc   # 历史文件（旧版 Near-Tie 生成器）
+
+核心参数配置（pipeline.py main函数中的默认值）：
+  MIN_PRICE = 10
+  MAX_PRICE = 1000
+  NO_SIGNATURE = True
+  GROUP_SIZE = 6
+  NUM_GROUPS_PER_PRICE = None   # None = 使用全部组，不抽样
+  NEAR_TIE_PERCENTILE = 0.2    # 选取 20% 极端组
+  随机种子: Low=42, Mid=43, High=44（分组用）; 45, 46, 47（抽样用）
+
+
+八、可复现性说明
+================================================================================
+
+- 所有随机操作均使用固定种子，保证结果可复现
+- 价格分割使用确定性搜索算法（枚举所有候选分割点），无随机性
+- Near-Tie 子集的选择基于确定性排序 + 固定百分位截断
+- 数据集构建的完整流程可通过运行 pipeline.py 的 main() 函数一键重现
+
+================================================================================
+文档生成时间: 2026-02-22
+================================================================================

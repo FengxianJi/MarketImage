@@ -1,0 +1,1605 @@
+{
+  "category": "High-price",
+  "num_episodes": 39,
+  "episodes": [
+    {
+      "group": 0,
+      "items": [
+        {
+          "name": "Artwork #1396",
+          "true_price": 170.0,
+          "rel": 5.141663556502659,
+          "pred_score": 0.5107421875
+        },
+        {
+          "name": "Artwork #1404",
+          "true_price": 170.0,
+          "rel": 5.141663556502659,
+          "pred_score": 0.5068359375
+        },
+        {
+          "name": "Artwork #1405",
+          "true_price": 170.0,
+          "rel": 5.141663556502659,
+          "pred_score": 0.578125
+        },
+        {
+          "name": "Artwork #1449",
+          "true_price": 170.0,
+          "rel": 5.141663556502659,
+          "pred_score": 0.544921875
+        },
+        {
+          "name": "Artwork #1480",
+          "true_price": 170.0,
+          "rel": 5.141663556502659,
+          "pred_score": 0.6044921875
+        },
+        {
+          "name": "Artwork #1334",
+          "true_price": 174.0,
+          "rel": 5.164785973923514,
+          "pred_score": 0.576171875
+        }
+      ]
+    },
+    {
+      "group": 1,
+      "items": [
+        {
+          "name": "Artwork #1297",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.564453125
+        },
+        {
+          "name": "Artwork #1410",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.58154296875
+        },
+        {
+          "name": "Artwork #1446",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.55908203125
+        },
+        {
+          "name": "Artwork #1533",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.56201171875
+        },
+        {
+          "name": "Artwork #1549",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.529296875
+        },
+        {
+          "name": "Artwork #1553",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.61328125
+        }
+      ]
+    },
+    {
+      "group": 2,
+      "items": [
+        {
+          "name": "Artwork #1592",
+          "true_price": 175.0,
+          "rel": 5.170483995038151,
+          "pred_score": 0.5556640625
+        },
+        {
+          "name": "Artwork #1384",
+          "true_price": 176.0,
+          "rel": 5.176149732573829,
+          "pred_score": 0.5908203125
+        },
+        {
+          "name": "Artwork #1547",
+          "true_price": 176.0,
+          "rel": 5.176149732573829,
+          "pred_score": 0.5244140625
+        },
+        {
+          "name": "Artwork #1413",
+          "true_price": 177.0,
+          "rel": 5.181783550292085,
+          "pred_score": 0.59912109375
+        },
+        {
+          "name": "Artwork #1240",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.5966796875
+        },
+        {
+          "name": "Artwork #1262",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.54833984375
+        }
+      ]
+    },
+    {
+      "group": 3,
+      "items": [
+        {
+          "name": "Artwork #1306",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.55615234375
+        },
+        {
+          "name": "Artwork #1383",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.56103515625
+        },
+        {
+          "name": "Artwork #1421",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.59228515625
+        },
+        {
+          "name": "Artwork #1424",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.556640625
+        },
+        {
+          "name": "Artwork #1583",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.6572265625
+        },
+        {
+          "name": "Artwork #1590",
+          "true_price": 180.0,
+          "rel": 5.198497031265825,
+          "pred_score": 0.63232421875
+        }
+      ]
+    },
+    {
+      "group": 4,
+      "items": [
+        {
+          "name": "Artwork #1276",
+          "true_price": 181.0,
+          "rel": 5.204006687076795,
+          "pred_score": 0.5732421875
+        },
+        {
+          "name": "Artwork #1364",
+          "true_price": 185.0,
+          "rel": 5.225746673713201,
+          "pred_score": 0.56396484375
+        },
+        {
+          "name": "Artwork #1530",
+          "true_price": 188.0,
+          "rel": 5.241747015059643,
+          "pred_score": 0.55810546875
+        },
+        {
+          "name": "Artwork #1259",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.564453125
+        },
+        {
+          "name": "Artwork #1278",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.59326171875
+        },
+        {
+          "name": "Artwork #1288",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5859375
+        }
+      ]
+    },
+    {
+      "group": 5,
+      "items": [
+        {
+          "name": "Artwork #1328",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5546875
+        },
+        {
+          "name": "Artwork #1339",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5380859375
+        },
+        {
+          "name": "Artwork #1418",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5390625
+        },
+        {
+          "name": "Artwork #1502",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.615234375
+        },
+        {
+          "name": "Artwork #1503",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.60107421875
+        },
+        {
+          "name": "Artwork #1520",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5703125
+        }
+      ]
+    },
+    {
+      "group": 6,
+      "items": [
+        {
+          "name": "Artwork #1525",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.58544921875
+        },
+        {
+          "name": "Artwork #1544",
+          "true_price": 190.0,
+          "rel": 5.25227342804663,
+          "pred_score": 0.5546875
+        },
+        {
+          "name": "Artwork #1444",
+          "true_price": 191.0,
+          "rel": 5.2574953720277815,
+          "pred_score": 0.578125
+        },
+        {
+          "name": "Artwork #1385",
+          "true_price": 192.0,
+          "rel": 5.262690188904886,
+          "pred_score": 0.5966796875
+        },
+        {
+          "name": "Artwork #1417",
+          "true_price": 192.0,
+          "rel": 5.262690188904886,
+          "pred_score": 0.5888671875
+        },
+        {
+          "name": "Artwork #1468",
+          "true_price": 195.0,
+          "rel": 5.278114659230517,
+          "pred_score": 0.6015625
+        }
+      ]
+    },
+    {
+      "group": 7,
+      "items": [
+        {
+          "name": "Artwork #1477",
+          "true_price": 195.0,
+          "rel": 5.278114659230517,
+          "pred_score": 0.560546875
+        },
+        {
+          "name": "Artwork #1431",
+          "true_price": 198.0,
+          "rel": 5.293304824724492,
+          "pred_score": 0.53173828125
+        },
+        {
+          "name": "Artwork #1486",
+          "true_price": 198.0,
+          "rel": 5.293304824724492,
+          "pred_score": 0.572265625
+        },
+        {
+          "name": "Artwork #1202",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.58251953125
+        },
+        {
+          "name": "Artwork #1218",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.5546875
+        },
+        {
+          "name": "Artwork #1283",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.54052734375
+        }
+      ]
+    },
+    {
+      "group": 8,
+      "items": [
+        {
+          "name": "Artwork #1294",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.59814453125
+        },
+        {
+          "name": "Artwork #1317",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.52783203125
+        },
+        {
+          "name": "Artwork #1326",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.544921875
+        },
+        {
+          "name": "Artwork #1330",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.5869140625
+        },
+        {
+          "name": "Artwork #1341",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.56005859375
+        },
+        {
+          "name": "Artwork #1375",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.5205078125
+        }
+      ]
+    },
+    {
+      "group": 9,
+      "items": [
+        {
+          "name": "Artwork #1414",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.5673828125
+        },
+        {
+          "name": "Artwork #1426",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.56982421875
+        },
+        {
+          "name": "Artwork #1499",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.57177734375
+        },
+        {
+          "name": "Artwork #1508",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.5478515625
+        },
+        {
+          "name": "Artwork #1580",
+          "true_price": 200.0,
+          "rel": 5.303304908059076,
+          "pred_score": 0.568359375
+        },
+        {
+          "name": "Artwork #1350",
+          "true_price": 201.0,
+          "rel": 5.308267697401204,
+          "pred_score": 0.58251953125
+        }
+      ]
+    },
+    {
+      "group": 10,
+      "items": [
+        {
+          "name": "Artwork #1578",
+          "true_price": 201.0,
+          "rel": 5.308267697401204,
+          "pred_score": 0.58203125
+        },
+        {
+          "name": "Artwork #1398",
+          "true_price": 202.0,
+          "rel": 5.313205979041787,
+          "pred_score": 0.61865234375
+        },
+        {
+          "name": "Artwork #1371",
+          "true_price": 205.0,
+          "rel": 5.327876168789581,
+          "pred_score": 0.60498046875
+        },
+        {
+          "name": "Artwork #1557",
+          "true_price": 205.0,
+          "rel": 5.327876168789581,
+          "pred_score": 0.52587890625
+        },
+        {
+          "name": "Artwork #1348",
+          "true_price": 206.0,
+          "rel": 5.332718793265369,
+          "pred_score": 0.51708984375
+        },
+        {
+          "name": "Artwork #1255",
+          "true_price": 213.0,
+          "rel": 5.365976015021851,
+          "pred_score": 0.56103515625
+        }
+      ]
+    },
+    {
+      "group": 11,
+      "items": [
+        {
+          "name": "Artwork #1299",
+          "true_price": 215.0,
+          "rel": 5.375278407684164,
+          "pred_score": 0.6318359375
+        },
+        {
+          "name": "Artwork #1534",
+          "true_price": 215.0,
+          "rel": 5.375278407684164,
+          "pred_score": 0.556640625
+        },
+        {
+          "name": "Artwork #1213",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.58984375
+        },
+        {
+          "name": "Artwork #1227",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.5166015625
+        },
+        {
+          "name": "Artwork #1245",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.58837890625
+        },
+        {
+          "name": "Artwork #1309",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.5732421875
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "items": [
+        {
+          "name": "Artwork #1333",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.568359375
+        },
+        {
+          "name": "Artwork #1337",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.59033203125
+        },
+        {
+          "name": "Artwork #1355",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.544921875
+        },
+        {
+          "name": "Artwork #1366",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.560546875
+        },
+        {
+          "name": "Artwork #1378",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.59326171875
+        },
+        {
+          "name": "Artwork #1389",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.55029296875
+        }
+      ]
+    },
+    {
+      "group": 13,
+      "items": [
+        {
+          "name": "Artwork #1399",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.56982421875
+        },
+        {
+          "name": "Artwork #1432",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.5625
+        },
+        {
+          "name": "Artwork #1433",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.603515625
+        },
+        {
+          "name": "Artwork #1461",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.53662109375
+        },
+        {
+          "name": "Artwork #1501",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.6796875
+        },
+        {
+          "name": "Artwork #1541",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.55517578125
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "items": [
+        {
+          "name": "Artwork #1585",
+          "true_price": 220.0,
+          "rel": 5.3981627015177525,
+          "pred_score": 0.62060546875
+        },
+        {
+          "name": "Artwork #1316",
+          "true_price": 221.0,
+          "rel": 5.402677381872279,
+          "pred_score": 0.59130859375
+        },
+        {
+          "name": "Artwork #1412",
+          "true_price": 221.0,
+          "rel": 5.402677381872279,
+          "pred_score": 0.59423828125
+        },
+        {
+          "name": "Artwork #1290",
+          "true_price": 222.0,
+          "rel": 5.407171771460119,
+          "pred_score": 0.58935546875
+        },
+        {
+          "name": "Artwork #1344",
+          "true_price": 222.0,
+          "rel": 5.407171771460119,
+          "pred_score": 0.541015625
+        },
+        {
+          "name": "Artwork #1223",
+          "true_price": 223.0,
+          "rel": 5.4116460518550396,
+          "pred_score": 0.58154296875
+        }
+      ]
+    },
+    {
+      "group": 15,
+      "items": [
+        {
+          "name": "Artwork #1458",
+          "true_price": 225.0,
+          "rel": 5.420534999272285,
+          "pred_score": 0.53515625
+        },
+        {
+          "name": "Artwork #1579",
+          "true_price": 225.0,
+          "rel": 5.420534999272285,
+          "pred_score": 0.5986328125
+        },
+        {
+          "name": "Artwork #1420",
+          "true_price": 230.0,
+          "rel": 5.442417710521793,
+          "pred_score": 0.5947265625
+        },
+        {
+          "name": "Artwork #1472",
+          "true_price": 230.0,
+          "rel": 5.442417710521793,
+          "pred_score": 0.60693359375
+        },
+        {
+          "name": "Artwork #1522",
+          "true_price": 230.0,
+          "rel": 5.442417710521793,
+          "pred_score": 0.55078125
+        },
+        {
+          "name": "Artwork #1591",
+          "true_price": 230.0,
+          "rel": 5.442417710521793,
+          "pred_score": 0.5595703125
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "items": [
+        {
+          "name": "Artwork #1217",
+          "true_price": 235.0,
+          "rel": 5.46383180502561,
+          "pred_score": 0.578125
+        },
+        {
+          "name": "Artwork #1228",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.5595703125
+        },
+        {
+          "name": "Artwork #1232",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.6337890625
+        },
+        {
+          "name": "Artwork #1456",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.54833984375
+        },
+        {
+          "name": "Artwork #1474",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.6884765625
+        },
+        {
+          "name": "Artwork #1497",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.5625
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "items": [
+        {
+          "name": "Artwork #1512",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.609375
+        },
+        {
+          "name": "Artwork #1517",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.63916015625
+        },
+        {
+          "name": "Artwork #1552",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.54931640625
+        },
+        {
+          "name": "Artwork #1563",
+          "true_price": 240.0,
+          "rel": 5.484796933490655,
+          "pred_score": 0.6337890625
+        },
+        {
+          "name": "Artwork #1205",
+          "true_price": 243.0,
+          "rel": 5.497168225293201,
+          "pred_score": 0.560546875
+        },
+        {
+          "name": "Artwork #1454",
+          "true_price": 243.0,
+          "rel": 5.497168225293201,
+          "pred_score": 0.5556640625
+        }
+      ]
+    },
+    {
+      "group": 18,
+      "items": [
+        {
+          "name": "Artwork #1529",
+          "true_price": 245.0,
+          "rel": 5.5053315359323625,
+          "pred_score": 0.5478515625
+        },
+        {
+          "name": "Artwork #1411",
+          "true_price": 246.0,
+          "rel": 5.5093883366279774,
+          "pred_score": 0.57861328125
+        },
+        {
+          "name": "Artwork #1216",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5595703125
+        },
+        {
+          "name": "Artwork #1220",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.61962890625
+        },
+        {
+          "name": "Artwork #1221",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.54296875
+        },
+        {
+          "name": "Artwork #1263",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5673828125
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "items": [
+        {
+          "name": "Artwork #1269",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.57666015625
+        },
+        {
+          "name": "Artwork #1270",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.58154296875
+        },
+        {
+          "name": "Artwork #1324",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5673828125
+        },
+        {
+          "name": "Artwork #1331",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.572265625
+        },
+        {
+          "name": "Artwork #1373",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.52783203125
+        },
+        {
+          "name": "Artwork #1408",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5634765625
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "items": [
+        {
+          "name": "Artwork #1467",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.63525390625
+        },
+        {
+          "name": "Artwork #1555",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5498046875
+        },
+        {
+          "name": "Artwork #1564",
+          "true_price": 250.0,
+          "rel": 5.5254529391317835,
+          "pred_score": 0.5537109375
+        },
+        {
+          "name": "Artwork #1320",
+          "true_price": 251.0,
+          "rel": 5.529429087511423,
+          "pred_score": 0.59716796875
+        },
+        {
+          "name": "Artwork #1582",
+          "true_price": 254.0,
+          "rel": 5.541263545158426,
+          "pred_score": 0.57666015625
+        },
+        {
+          "name": "Artwork #1274",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.55322265625
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "items": [
+        {
+          "name": "Artwork #1275",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.53125
+        },
+        {
+          "name": "Artwork #1310",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.59033203125
+        },
+        {
+          "name": "Artwork #1327",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.583984375
+        },
+        {
+          "name": "Artwork #1471",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.57958984375
+        },
+        {
+          "name": "Artwork #1505",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.485595703125
+        },
+        {
+          "name": "Artwork #1558",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.5576171875
+        }
+      ]
+    },
+    {
+      "group": 22,
+      "items": [
+        {
+          "name": "Artwork #1597",
+          "true_price": 260.0,
+          "rel": 5.564520407322693,
+          "pred_score": 0.5390625
+        },
+        {
+          "name": "Artwork #1234",
+          "true_price": 263.0,
+          "rel": 5.575949103146316,
+          "pred_score": 0.52685546875
+        },
+        {
+          "name": "Artwork #1253",
+          "true_price": 265.0,
+          "rel": 5.583496308781699,
+          "pred_score": 0.578125
+        },
+        {
+          "name": "Artwork #1395",
+          "true_price": 265.0,
+          "rel": 5.583496308781699,
+          "pred_score": 0.5380859375
+        },
+        {
+          "name": "Artwork #1305",
+          "true_price": 270.0,
+          "rel": 5.602118820879701,
+          "pred_score": 0.54296875
+        },
+        {
+          "name": "Artwork #1318",
+          "true_price": 270.0,
+          "rel": 5.602118820879701,
+          "pred_score": 0.6005859375
+        }
+      ]
+    },
+    {
+      "group": 23,
+      "items": [
+        {
+          "name": "Artwork #1393",
+          "true_price": 270.0,
+          "rel": 5.602118820879701,
+          "pred_score": 0.55908203125
+        },
+        {
+          "name": "Artwork #1429",
+          "true_price": 270.0,
+          "rel": 5.602118820879701,
+          "pred_score": 0.6083984375
+        },
+        {
+          "name": "Artwork #1407",
+          "true_price": 274.0,
+          "rel": 5.616771097666571,
+          "pred_score": 0.724609375
+        },
+        {
+          "name": "Artwork #1254",
+          "true_price": 279.0,
+          "rel": 5.634789603169249,
+          "pred_score": 0.55859375
+        },
+        {
+          "name": "Artwork #1285",
+          "true_price": 280.0,
+          "rel": 5.638354669333745,
+          "pred_score": 0.51318359375
+        },
+        {
+          "name": "Artwork #1302",
+          "true_price": 280.0,
+          "rel": 5.638354669333745,
+          "pred_score": 0.533203125
+        }
+      ]
+    },
+    {
+      "group": 24,
+      "items": [
+        {
+          "name": "Artwork #1489",
+          "true_price": 280.0,
+          "rel": 5.638354669333745,
+          "pred_score": 0.59130859375
+        },
+        {
+          "name": "Artwork #1560",
+          "true_price": 280.0,
+          "rel": 5.638354669333745,
+          "pred_score": 0.58203125
+        },
+        {
+          "name": "Artwork #1565",
+          "true_price": 280.0,
+          "rel": 5.638354669333745,
+          "pred_score": 0.60888671875
+        },
+        {
+          "name": "Artwork #1511",
+          "true_price": 282.0,
+          "rel": 5.645446897643238,
+          "pred_score": 0.560546875
+        },
+        {
+          "name": "Artwork #1267",
+          "true_price": 284.0,
+          "rel": 5.652489180268651,
+          "pred_score": 0.5830078125
+        },
+        {
+          "name": "Artwork #1282",
+          "true_price": 290.0,
+          "rel": 5.673323267171492,
+          "pred_score": 0.587890625
+        }
+      ]
+    },
+    {
+      "group": 25,
+      "items": [
+        {
+          "name": "Artwork #1586",
+          "true_price": 290.0,
+          "rel": 5.673323267171492,
+          "pred_score": 0.5419921875
+        },
+        {
+          "name": "Artwork #1211",
+          "true_price": 295.0,
+          "rel": 5.69035945432406,
+          "pred_score": 0.6240234375
+        },
+        {
+          "name": "Artwork #1266",
+          "true_price": 295.0,
+          "rel": 5.69035945432406,
+          "pred_score": 0.513671875
+        },
+        {
+          "name": "Artwork #1207",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.6162109375
+        },
+        {
+          "name": "Artwork #1226",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.56298828125
+        },
+        {
+          "name": "Artwork #1238",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.59619140625
+        }
+      ]
+    },
+    {
+      "group": 26,
+      "items": [
+        {
+          "name": "Artwork #1268",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.578125
+        },
+        {
+          "name": "Artwork #1279",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.6142578125
+        },
+        {
+          "name": "Artwork #1312",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.583984375
+        },
+        {
+          "name": "Artwork #1323",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.587890625
+        },
+        {
+          "name": "Artwork #1365",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.55126953125
+        },
+        {
+          "name": "Artwork #1367",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.5849609375
+        }
+      ]
+    },
+    {
+      "group": 27,
+      "items": [
+        {
+          "name": "Artwork #1370",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.57275390625
+        },
+        {
+          "name": "Artwork #1394",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.5673828125
+        },
+        {
+          "name": "Artwork #1452",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.564453125
+        },
+        {
+          "name": "Artwork #1453",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.58154296875
+        },
+        {
+          "name": "Artwork #1459",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.6123046875
+        },
+        {
+          "name": "Artwork #1478",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.568359375
+        }
+      ]
+    },
+    {
+      "group": 28,
+      "items": [
+        {
+          "name": "Artwork #1484",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.54833984375
+        },
+        {
+          "name": "Artwork #1490",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.57763671875
+        },
+        {
+          "name": "Artwork #1494",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.619140625
+        },
+        {
+          "name": "Artwork #1514",
+          "true_price": 300.0,
+          "rel": 5.707110264748875,
+          "pred_score": 0.57861328125
+        },
+        {
+          "name": "Artwork #1473",
+          "true_price": 301.0,
+          "rel": 5.71042701737487,
+          "pred_score": 0.56689453125
+        },
+        {
+          "name": "Artwork #1257",
+          "true_price": 305.0,
+          "rel": 5.723585101952381,
+          "pred_score": 0.58447265625
+        }
+      ]
+    },
+    {
+      "group": 29,
+      "items": [
+        {
+          "name": "Artwork #1559",
+          "true_price": 305.0,
+          "rel": 5.723585101952381,
+          "pred_score": 0.57568359375
+        },
+        {
+          "name": "Artwork #1425",
+          "true_price": 307.0,
+          "rel": 5.730099782973574,
+          "pred_score": 0.58984375
+        },
+        {
+          "name": "Artwork #1201",
+          "true_price": 310.0,
+          "rel": 5.739792912179234,
+          "pred_score": 0.5576171875
+        },
+        {
+          "name": "Artwork #1292",
+          "true_price": 310.0,
+          "rel": 5.739792912179234,
+          "pred_score": 0.5458984375
+        },
+        {
+          "name": "Artwork #1465",
+          "true_price": 310.0,
+          "rel": 5.739792912179234,
+          "pred_score": 0.56103515625
+        },
+        {
+          "name": "Artwork #1538",
+          "true_price": 310.0,
+          "rel": 5.739792912179234,
+          "pred_score": 0.55078125
+        }
+      ]
+    },
+    {
+      "group": 30,
+      "items": [
+        {
+          "name": "Artwork #1225",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.533203125
+        },
+        {
+          "name": "Artwork #1235",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.53955078125
+        },
+        {
+          "name": "Artwork #1332",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.611328125
+        },
+        {
+          "name": "Artwork #1439",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.59912109375
+        },
+        {
+          "name": "Artwork #1487",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.55322265625
+        },
+        {
+          "name": "Artwork #1488",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.54052734375
+        }
+      ]
+    },
+    {
+      "group": 31,
+      "items": [
+        {
+          "name": "Artwork #1518",
+          "true_price": 320.0,
+          "rel": 5.771441123130016,
+          "pred_score": 0.552734375
+        },
+        {
+          "name": "Artwork #1243",
+          "true_price": 322.0,
+          "rel": 5.777652323222656,
+          "pred_score": 0.57421875
+        },
+        {
+          "name": "Artwork #1222",
+          "true_price": 325.0,
+          "rel": 5.786897381366708,
+          "pred_score": 0.51220703125
+        },
+        {
+          "name": "Artwork #1224",
+          "true_price": 325.0,
+          "rel": 5.786897381366708,
+          "pred_score": 0.60205078125
+        },
+        {
+          "name": "Artwork #1369",
+          "true_price": 325.0,
+          "rel": 5.786897381366708,
+          "pred_score": 0.552734375
+        },
+        {
+          "name": "Artwork #1376",
+          "true_price": 325.0,
+          "rel": 5.786897381366708,
+          "pred_score": 0.50732421875
+        }
+      ]
+    },
+    {
+      "group": 32,
+      "items": [
+        {
+          "name": "Artwork #1448",
+          "true_price": 325.0,
+          "rel": 5.786897381366708,
+          "pred_score": 0.5546875
+        },
+        {
+          "name": "Artwork #1260",
+          "true_price": 330.0,
+          "rel": 5.802118375377063,
+          "pred_score": 0.5205078125
+        },
+        {
+          "name": "Artwork #1464",
+          "true_price": 330.0,
+          "rel": 5.802118375377063,
+          "pred_score": 0.54638671875
+        },
+        {
+          "name": "Artwork #1469",
+          "true_price": 330.0,
+          "rel": 5.802118375377063,
+          "pred_score": 0.51708984375
+        },
+        {
+          "name": "Artwork #1596",
+          "true_price": 331.0,
+          "rel": 5.805134968916488,
+          "pred_score": 0.48388671875
+        },
+        {
+          "name": "Artwork #1236",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.5791015625
+        }
+      ]
+    },
+    {
+      "group": 33,
+      "items": [
+        {
+          "name": "Artwork #1241",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.6279296875
+        },
+        {
+          "name": "Artwork #1252",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.6064453125
+        },
+        {
+          "name": "Artwork #1403",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.58984375
+        },
+        {
+          "name": "Artwork #1419",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.55615234375
+        },
+        {
+          "name": "Artwork #1515",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.59326171875
+        },
+        {
+          "name": "Artwork #1519",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.6162109375
+        }
+      ]
+    },
+    {
+      "group": 34,
+      "items": [
+        {
+          "name": "Artwork #1540",
+          "true_price": 340.0,
+          "rel": 5.831882477283517,
+          "pred_score": 0.5390625
+        },
+        {
+          "name": "Artwork #1504",
+          "true_price": 347.0,
+          "rel": 5.8522024797744745,
+          "pred_score": 0.5537109375
+        },
+        {
+          "name": "Artwork #1204",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.58642578125
+        },
+        {
+          "name": "Artwork #1209",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.5966796875
+        },
+        {
+          "name": "Artwork #1338",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.6064453125
+        },
+        {
+          "name": "Artwork #1447",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.59375
+        }
+      ]
+    },
+    {
+      "group": 35,
+      "items": [
+        {
+          "name": "Artwork #1513",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.564453125
+        },
+        {
+          "name": "Artwork #1516",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.58056640625
+        },
+        {
+          "name": "Artwork #1543",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.59033203125
+        },
+        {
+          "name": "Artwork #1556",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.57568359375
+        },
+        {
+          "name": "Artwork #1584",
+          "true_price": 350.0,
+          "rel": 5.860786223465865,
+          "pred_score": 0.50732421875
+        },
+        {
+          "name": "Artwork #1451",
+          "true_price": 360.0,
+          "rel": 5.8888779583328805,
+          "pred_score": 0.6064453125
+        }
+      ]
+    },
+    {
+      "group": 36,
+      "items": [
+        {
+          "name": "Artwork #1485",
+          "true_price": 360.0,
+          "rel": 5.8888779583328805,
+          "pred_score": 0.5400390625
+        },
+        {
+          "name": "Artwork #1569",
+          "true_price": 360.0,
+          "rel": 5.8888779583328805,
+          "pred_score": 0.5703125
+        },
+        {
+          "name": "Artwork #1200",
+          "true_price": 361.0,
+          "rel": 5.891644211825771,
+          "pred_score": 0.60107421875
+        },
+        {
+          "name": "Artwork #1561",
+          "true_price": 361.0,
+          "rel": 5.891644211825771,
+          "pred_score": 0.67431640625
+        },
+        {
+          "name": "Artwork #1349",
+          "true_price": 370.0,
+          "rel": 5.916202062607435,
+          "pred_score": 0.560546875
+        },
+        {
+          "name": "Artwork #1595",
+          "true_price": 370.0,
+          "rel": 5.916202062607435,
+          "pred_score": 0.5595703125
+        }
+      ]
+    },
+    {
+      "group": 37,
+      "items": [
+        {
+          "name": "Artwork #1415",
+          "true_price": 375.0,
+          "rel": 5.929589143389895,
+          "pred_score": 0.53515625
+        },
+        {
+          "name": "Artwork #1360",
+          "true_price": 380.0,
+          "rel": 5.9427993751267,
+          "pred_score": 0.5986328125
+        },
+        {
+          "name": "Artwork #1428",
+          "true_price": 380.0,
+          "rel": 5.9427993751267,
+          "pred_score": 0.568359375
+        },
+        {
+          "name": "Artwork #1246",
+          "true_price": 383.0,
+          "rel": 5.950642552587727,
+          "pred_score": 0.59912109375
+        },
+        {
+          "name": "Artwork #1286",
+          "true_price": 390.0,
+          "rel": 5.968707559985366,
+          "pred_score": 0.5908203125
+        },
+        {
+          "name": "Artwork #1289",
+          "true_price": 390.0,
+          "rel": 5.968707559985366,
+          "pred_score": 0.57373046875
+        }
+      ]
+    },
+    {
+      "group": 38,
+      "items": [
+        {
+          "name": "Artwork #1300",
+          "true_price": 390.0,
+          "rel": 5.968707559985366,
+          "pred_score": 0.5458984375
+        },
+        {
+          "name": "Artwork #1343",
+          "true_price": 390.0,
+          "rel": 5.968707559985366,
+          "pred_score": 0.5927734375
+        },
+        {
+          "name": "Artwork #1345",
+          "true_price": 390.0,
+          "rel": 5.968707559985366,
+          "pred_score": 0.599609375
+        },
+        {
+          "name": "Artwork #1527",
+          "true_price": 393.0,
+          "rel": 5.976350909297934,
+          "pred_score": 0.5751953125
+        },
+        {
+          "name": "Artwork #1537",
+          "true_price": 394.0,
+          "rel": 5.978885764901122,
+          "pred_score": 0.57373046875
+        },
+        {
+          "name": "Artwork #1531",
+          "true_price": 395.0,
+          "rel": 5.981414211254481,
+          "pred_score": 0.603515625
+        }
+      ]
+    }
+  ]
+}
